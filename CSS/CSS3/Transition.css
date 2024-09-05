@@ -1,0 +1,40 @@
+div{
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    background: repeating-radial-gradient(grey ,black);
+
+}
+
+div#div1{
+    /* to translat */
+    /* transform: translate(900px, 100px); */
+
+    /* to rotate */
+    /* transform: rotate(120deg); */
+
+    /* //doing both translate and rotate */
+    /* transform: translate(500px, 150px) rotate(150deg); */
+
+    /* for scale */
+    /* transform: scale(1.5, 1.5); */
+
+    /* transform rotate and scale  */
+    /* transform: translate(600px 400px) rotate(120deg) scale(1.4,1.5); */
+
+    /* to skew */
+    /* transform:  skew(35deg); */
+
+    /* //translate 3d */
+    /* transform : translate3d(200px, 200px, 200px); */
+
+    /* transitions:  */
+    /* changes the properties values of obaject like height,weidth ext */
+
+    /* transition-property  height width */
+    /* transition-duration time it takes to complete  */
+    /* transition-delay time take to start the transition in seconds */
+    
+
+
+}

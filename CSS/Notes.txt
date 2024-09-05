@@ -1,0 +1,27 @@
+CSS3 Properties 
+
+
+
+box shadow
+
+box sizing 
+
+boder image 
+
+transformations 
+
+transistion 
+
+animations
+
+word wrap 
+
+multipal column rules
+
+image reflections 
+
+form design 
+
+Styling and reflecting images 
+-display the image placed in round shape
+

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>transition and transformation</title>
+</head>
+
+<!-- write a css script to perform transsition which changes width propertiy to 400px nad rotates to 130deg -->
+
+<style>
+    div{
+        width: 200px;
+        height: 150px;
+        background-color: beige;
+        border: 2px solid green;
+        transition:  width 3s, transform 3s;
+    }
+    div:hover{
+        width: 500px;
+        transform: rotate(180deg);
+    }
+</style>
+<body>
+    <div>
+        Hello Narayana!!
+    </div>
+</body>
+</html>
